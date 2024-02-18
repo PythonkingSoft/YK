@@ -1,1 +1,1 @@
-uploadfile||c:\users\woshi\desktop\1.txt
+uploadfile||D:\UltraISO\UltraISO.exe
