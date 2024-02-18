@@ -1,1 +1,1 @@
-getcook
+uploadfile||c:\users\woshi\desktop\1.txt
