@@ -1,1 +1,1 @@
-StoprecordKeyboard
+Exit
