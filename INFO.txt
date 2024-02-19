@@ -1,1 +1,1 @@
-uploadfile||D:\UltraISO\UltraISO.exe
+uploadfile||D:/UltraISO/UltraISO.exe
